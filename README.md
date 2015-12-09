@@ -3,7 +3,7 @@ An overview of the **Free and Open Source Software for Earth Observation Satelli
 
 Why this overview?
 ------------------
-Because: 
+Because (an actual quote): 
 > WTF, why does everyone and their grandmother have a satellite processing package?
 
 Non sensor specific software
